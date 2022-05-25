@@ -1,0 +1,12 @@
+C:\ProjectUnity\MyApp\MyApp-Shared\bin\Debug\net5.0\MyApp-Shared.deps.json
+C:\ProjectUnity\MyApp\MyApp-Shared\bin\Debug\net5.0\MyApp-Shared.dll
+C:\ProjectUnity\MyApp\MyApp-Shared\bin\Debug\net5.0\ref\MyApp-Shared.dll
+C:\ProjectUnity\MyApp\MyApp-Shared\bin\Debug\net5.0\MyApp-Shared.pdb
+C:\ProjectUnity\MyApp\MyApp-Shared\obj\Debug\net5.0\MyApp-Shared.csproj.AssemblyReference.cache
+C:\ProjectUnity\MyApp\MyApp-Shared\obj\Debug\net5.0\MyApp-Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectUnity\MyApp\MyApp-Shared\obj\Debug\net5.0\MyApp-Shared.AssemblyInfoInputs.cache
+C:\ProjectUnity\MyApp\MyApp-Shared\obj\Debug\net5.0\MyApp-Shared.AssemblyInfo.cs
+C:\ProjectUnity\MyApp\MyApp-Shared\obj\Debug\net5.0\MyApp-Shared.csproj.CoreCompileInputs.cache
+C:\ProjectUnity\MyApp\MyApp-Shared\obj\Debug\net5.0\MyApp-Shared.dll
+C:\ProjectUnity\MyApp\MyApp-Shared\obj\Debug\net5.0\ref\MyApp-Shared.dll
+C:\ProjectUnity\MyApp\MyApp-Shared\obj\Debug\net5.0\MyApp-Shared.pdb

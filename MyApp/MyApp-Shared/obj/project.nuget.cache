@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6qGLRYsMkmRO7JO7vsLlXs2XEeVnYxCW9ATNJzi3Y8cZJscglFm175tgJLOFzDyvHQE8Z7Lit+uSVPQ5v3tPaQ==",
+  "success": true,
+  "projectFilePath": "C:\\ProjectUnity\\MyApp\\MyApp-Shared\\MyApp-Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\grpc.core.api\\2.35.0\\grpc.core.api.2.35.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\magiconion.abstractions\\4.5.0\\magiconion.abstractions.4.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\messagepack\\2.3.85\\messagepack.2.3.85.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\messagepack.annotations\\2.3.85\\messagepack.annotations.2.3.85.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\messagepack.unityshims\\2.3.85\\messagepack.unityshims.2.3.85.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

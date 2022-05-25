@@ -1,0 +1,123 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MyApp-Shared/1.0.0": {
+        "dependencies": {
+          "MagicOnion.Abstractions": "4.5.0",
+          "MessagePack.UnityShims": "2.3.85"
+        },
+        "runtime": {
+          "MyApp-Shared.dll": {}
+        }
+      },
+      "Grpc.Core.Api/2.35.0": {
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Grpc.Core.Api.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.35.0.0"
+          }
+        }
+      },
+      "MagicOnion.Abstractions/4.5.0": {
+        "dependencies": {
+          "Grpc.Core.Api": "2.35.0",
+          "MessagePack": "2.3.85"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MagicOnion.Abstractions.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.0.0"
+          }
+        }
+      },
+      "MessagePack/2.3.85": {
+        "dependencies": {
+          "MessagePack.Annotations": "2.3.85"
+        },
+        "runtime": {
+          "lib/net5.0/MessagePack.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.85.30390"
+          }
+        }
+      },
+      "MessagePack.Annotations/2.3.85": {
+        "runtime": {
+          "lib/netstandard2.0/MessagePack.Annotations.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.85.30390"
+          }
+        }
+      },
+      "MessagePack.UnityShims/2.3.85": {
+        "dependencies": {
+          "MessagePack": "2.3.85"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MessagePack.UnityShims.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.85.30390"
+          }
+        }
+      },
+      "System.Memory/4.5.3": {}
+    }
+  },
+  "libraries": {
+    "MyApp-Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grpc.Core.Api/2.35.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3ZpDzd5iMRBUv22hcvBqhL1yFFNfa9AccG8koco0ezbO/NMt3E0GsTf1BeIZ2G6ceFZR3fEMawpiJAlXhDEpQA==",
+      "path": "grpc.core.api/2.35.0",
+      "hashPath": "grpc.core.api.2.35.0.nupkg.sha512"
+    },
+    "MagicOnion.Abstractions/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RorEBge6qmGVB2KCx1WZ/ESMrJdMG7LO+CghuGmWBpAfRbvUyrX/c/rnPHZgnvOPJ5hjRhEl9SAVWoWGcA8MEg==",
+      "path": "magiconion.abstractions/4.5.0",
+      "hashPath": "magiconion.abstractions.4.5.0.nupkg.sha512"
+    },
+    "MessagePack/2.3.85": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wOabnqkrXp7oeEYLY4Kd0m0eT4falJQukqvErfz5Y4FKKo9mSQQ1+rMxx9mapF2el+P0XQxiZOBKFm+oCvu0aw==",
+      "path": "messagepack/2.3.85",
+      "hashPath": "messagepack.2.3.85.nupkg.sha512"
+    },
+    "MessagePack.Annotations/2.3.85": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2GCYZ9qgNS5Og0tiqfhWRhcfDZI/iRi8t07R0fNic1HthMMRfWxWOKDIBhtMA1RwZM4BuRsmJXUgk3evyisb1w==",
+      "path": "messagepack.annotations/2.3.85",
+      "hashPath": "messagepack.annotations.2.3.85.nupkg.sha512"
+    },
+    "MessagePack.UnityShims/2.3.85": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wwjn+XSQHBcDR6X3byfFP8cAA3yogFgmIVJBlYlKd9b764Tfijrkq+GBCBUPWtDuSW13qFpfB9ZXBTkuCbOURA==",
+      "path": "messagepack.unityshims/2.3.85",
+      "hashPath": "messagepack.unityshims.2.3.85.nupkg.sha512"
+    },
+    "System.Memory/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "path": "system.memory/4.5.3",
+      "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    }
+  }
+}
